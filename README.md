@@ -1,16 +1,3 @@
-[<img src='assets\Initia-Banner.png' alt='banner' width= '99.9%'>]()
-
-<font size = 7><center><b><u>About Initia</u></b></center></font>
-
-* ### **[Initia](https://initia.xyz/)** is a pioneering network for interwoven rollups, revolutionizing blockchain by simplifying complexity and providing a unified platform akin to using your favorite smartphone, inspired by Apple's design philosophy.
-
-<div align="center">
-  <a href="https://initia.xyz/"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/85aaef48-7ea4-4857-b339-985645c6850c" alt="Website" width="16%"></a>
-  <a href="https://github.com/initia-labs"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/229ec400-72ff-48ee-ac18-7bdb1f5e221a" alt="Github" width="16%"></a>
-  <a href="https://twitter.com/initiaFDN"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/3978b7fc-d575-44a6-8d41-327c14c8ba31" alt="Twitter" width="16%"></a>
-  <a href="https://discord.com/invite/initia"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/944a0b87-548d-4109-ad0c-def572d307cb" alt="Discord" width="16%"></a>
-  <a href="https://medium.com/@initiafdn"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/ac52729b-64d7-44d1-9a66-1e0d159848f6" alt="Blog" width="16.2%"></a>
-</div>
 
 ### Navigation Menu
 - [Hardware requirements](#hardware-requirements)
